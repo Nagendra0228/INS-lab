@@ -1,5 +1,5 @@
 ## Run in Google Colab
-👉 [Click here to open in Colab](https://colab.research.google.com/drive/1UHhELsGNYVCb1TCjXKGFEpu4gMn65M_D?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UHhELsGNYVCb1TCjXKGFEpu4gMn65M_D?usp=sharing)
 Monoalphabetic Cipher in Python
 This Python script implements a Monoalphabetic Cipher, where each letter in the plaintext is substituted with a unique, randomly shuffled letter from the alphabet.
 
