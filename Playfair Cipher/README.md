@@ -1,5 +1,5 @@
 ## Run in Google Colab
-👉 [Click here to open in Colab](https://colab.research.google.com/drive/1SQ3Kc-VBKZz_eAbKvTQah0tZpydDsg-O?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SQ3Kc-VBKZz_eAbKvTQah0tZpydDsg-O?usp=sharing)
 
 Playfair Cipher Implementation in Python
 This Python script implements the Playfair Cipher, a classical encryption technique that enciphers pairs of letters based on a 5x5 matrix generated using a given key.
