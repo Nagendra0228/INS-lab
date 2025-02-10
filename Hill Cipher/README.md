@@ -1,5 +1,4 @@
 ## Run in Google Colab
-[![Open In Colab](https://colab.research.google.com/drive/1ePOop-W29ANubz623x-XR4niOzAPBKvF?usp=sharing)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ePOop-W29ANubz623x-XR4niOzAPBKvF?usp=sharing)
 
 Hill Cipher in Python
