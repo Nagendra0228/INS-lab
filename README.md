@@ -29,6 +29,8 @@ This repository contains multiple folders, each with Python scripts and correspo
 
 ## Running Scripts Locally
 1. Clone the repository:
+   Clone the repo and run in your local system.If you want to learn more about github follow this video:-
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=q9wc7hUrW8U)
    ```sh
    git clone https://github.com/your-username/your-repo.git
    ```
@@ -36,5 +38,6 @@ This repository contains multiple folders, each with Python scripts and correspo
 1. Click on the colab logo:
 You will be redirected to the colab and trhere you can run it easily.If you want to learn more about colab follow this video:-
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=agj3AxNPDWU&list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH)
+
 
 
