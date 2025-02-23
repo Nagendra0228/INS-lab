@@ -23,3 +23,16 @@ All the programs are in colab anyone can go and rub
    ```sh
    pip install -r requirements.txt
    ```
+# Usage Guide
+
+This repository contains multiple folders, each with Python scripts and corresponding Google Colab notebooks.
+
+## Running Scripts Locally
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
+   '''
+##Using Colab:
+1.Click on the colab logo:
+You will be redirected to the colab and trhere you can run it easily.If you want to learn more about colab follow this video:-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
