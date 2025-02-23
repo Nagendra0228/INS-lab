@@ -1,7 +1,7 @@
 # Vigenere Cipher Implementation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o4nRzxIcwXB1P-Vk6Z3QGFw7UY0yqs6g?usp=sharing)
 ## Introduction
-The Vigenère cipher is a method of encrypting alphabetic text by using a series of Caesar ciphers based on the letters of a keyword. It is a form of polyalphabetic substitution.
+The Vigenere cipher is a method of encrypting alphabetic text by using a series of Caesar ciphers based on the letters of a keyword. It is a form of polyalphabetic substitution.
 
 ## Encryption and Decryption
 This section provides the implementation of the Vigenère cipher in Python.
@@ -59,4 +59,4 @@ print("Encrypted:", encrypted_text)  # Output encrypted text
 print("Decrypted:", decrypted_text)  # Output decrypted text (should match original plaintext)
 ```
 # Conclusion
-The Vigenère cipher is a classical encryption technique that enhances security by using a keyword for multiple shifts. The Python implementation above demonstrates both encryption and decryption functionalities effectively.
+The Vigenere cipher is a classical encryption technique that enhances security by using a keyword for multiple shifts. The Python implementation above demonstrates both encryption and decryption functionalities effectively.
