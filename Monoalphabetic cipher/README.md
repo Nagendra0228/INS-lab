@@ -1,6 +1,6 @@
 ## Monoalphabetic Cipher
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UHhELsGNYVCb1TCjXKGFEpu4gMn65M_D?usp=sharing)
-#Overview
+# Overview
 This Python script implements a simple random substitution cipher. It generates a shuffled version of the alphabet and uses it to encrypt and decrypt a given plaintext.
 
 # Modules Used
