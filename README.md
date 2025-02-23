@@ -37,4 +37,4 @@ This repository contains multiple folders, each with Python scripts and correspo
 You will be redirected to the colab and trhere you can run it easily.If you want to learn more about colab follow this video:-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=VIDEO_ID)
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/7/75/YouTube_social_white_squircle_%282017%29.svg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
