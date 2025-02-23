@@ -1,4 +1,4 @@
-# Vigenère Cipher Implementation
+# Vigenere Cipher Implementation
 
 ## Introduction
 The Vigenère cipher is a method of encrypting alphabetic text by using a series of Caesar ciphers based on the letters of a keyword. It is a form of polyalphabetic substitution.
