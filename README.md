@@ -23,7 +23,7 @@ All the programs are in colab anyone can go and rub
    ```sh
    pip install -r requirements.txt
    ```
-# Usage Guide
+# Usage
 
 This repository contains multiple folders, each with Python scripts and corresponding Google Colab notebooks.
 
@@ -48,4 +48,33 @@ You will be redirected to the colab and trhere you can run it easily.If you want
 - 📜 **Step-by-step execution guide** for beginners.
 - 🎯 **Tested outputs** included for reference.
 - ⚡ **Easily runnable on Linux/Windows/Colab/Jupyter**.
+
+# 📢 Contributing to INS Lab 🚀  
+
+Thank you for considering contributing to this repository! We welcome and encourage contributions to improve the INS Lab programs. Whether you want to **add new programs, optimize existing code, or improve documentation**, your help is highly valued.  
+
+---
+
+## 🛠 How to Contribute?  
+
+1. **Fork this repository** – Click the "Fork" button in the top-right corner.  
+2. **Clone your forked repo** to your local machine:
+    ```sh
+   git clone https://github.com/your-username/INS-Lab.git
+   ```
+3. Create a new branch for your changes:
+   ```sh
+   git checkout -b feature-branch
+   ```
+4. Make your changes – Add programs, optimize algorithms, or improve documentation.
+5. Commit your changes:
+    ```sh
+   git add .
+   git commit -m "Added [your change details]"
+   ```
+6. Push your changes to your forked repo:  
+   ```sh
+   git push origin feature-branch
+   ```
+
 
