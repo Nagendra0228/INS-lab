@@ -76,5 +76,7 @@ Thank you for considering contributing to this repository! We welcome and encour
    ```sh
    git push origin feature-branch
    ```
+## License
+This lab program collection is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 
