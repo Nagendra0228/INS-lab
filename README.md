@@ -40,4 +40,12 @@ You will be redirected to the colab and trhere you can run it easily.If you want
 [![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://www.youtube.com/watch?v=agj3AxNPDWU&list=PLA83b1JHN4ly56Y7o6vDAT8Szxc3_EdRH)
 
 
+## Features 🔐
+- 📂 **All INS Lab Programs** included in a structured format.
+- 🔑 **Covers core cryptographic algorithms** like RSA, AES, DES, Diffie-Hellman, etc.
+- 🖥️ **Implemented in Python**.
+- 🔬 **Well-documented code** with explanations for each algorithm.
+- 📜 **Step-by-step execution guide** for beginners.
+- 🎯 **Tested outputs** included for reference.
+- ⚡ **Easily runnable on Linux/Windows/Colab/Jupyter**.
 
