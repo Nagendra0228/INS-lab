@@ -1,5 +1,5 @@
 # INS-lab
-All the programs are in colab anyone can go and rub 
+All the programs are in colab and .py file anyone can go and run. 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
