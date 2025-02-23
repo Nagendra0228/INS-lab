@@ -70,8 +70,8 @@ Decrypted Text: hi
 ## 🔐 Feistel Cipher Concept
 Feistel Ciphers are block ciphers that split the input into two halves and apply encryption rounds with a round function. This design is used in well-known ciphers like DES (Data Encryption Standard).
 ## 📌 Next Steps
-1.Implement multiple rounds for stronger encryption.
-2.Add different key scheduling techniques.
-3.Support larger block sizes.
+  1.Implement multiple rounds for stronger encryption.
+  2.Add different key scheduling techniques.
+  3.Support larger block sizes.
 ## 📄 License
 This project is open-source under the MIT License.
