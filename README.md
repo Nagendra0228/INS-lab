@@ -6,7 +6,7 @@ All the programs are in colab anyone can go and rub
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#Usage)
-- [Features](#Features)
+- [Features](#Features 🔐)
 - [Contributing](#Contributing)
 - [License](#License)
 
