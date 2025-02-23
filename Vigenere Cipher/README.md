@@ -1,5 +1,5 @@
 # Vigenere Cipher Implementation
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1o4nRzxIcwXB1P-Vk6Z3QGFw7UY0yqs6g?usp=sharing)
 ## Introduction
 The Vigenère cipher is a method of encrypting alphabetic text by using a series of Caesar ciphers based on the letters of a keyword. It is a form of polyalphabetic substitution.
 
