@@ -49,7 +49,7 @@ You will be redirected to the colab and trhere you can run it easily.If you want
 - 🎯 **Tested outputs** included for reference.
 - ⚡ **Easily runnable on Linux/Windows/Colab/Jupyter**.
 
-# 📢 Contributing 🚀  
+# Contributing   
 
 Thank you for considering contributing to this repository! We welcome and encourage contributions to improve the INS Lab programs. Whether you want to **add new programs, optimize existing code, or improve documentation**, your help is highly valued.  
 
