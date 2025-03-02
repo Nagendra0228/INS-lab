@@ -51,7 +51,7 @@ Ensures that the **key size matches** the right half of the text.
 ## 🏃‍♂️ Running the Code
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/feistel-cipher.git
+git clone https://github.com/Nagendra0228/feistel-cipher.git
 cd feistel-cipher
 ```
 ## Run the Program
