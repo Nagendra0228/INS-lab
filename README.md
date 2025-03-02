@@ -60,7 +60,7 @@ Thank you for considering contributing to this repository! We welcome and encour
 1. **Fork this repository** – Click the "Fork" button in the top-right corner.  
 2. **Clone your forked repo** to your local machine:
     ```sh
-   git clone https://github.com/your-username/INS-Lab.git
+   git clone https://github.com/Nagendra0228/INS-Lab.git
    ```
 3. Create a new branch for your changes:
    ```sh
