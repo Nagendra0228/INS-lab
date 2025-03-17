@@ -19,18 +19,6 @@ This project encrypts a user-provided string by converting it into binary, apply
 - Python 3.x
 - `random` module (pre-installed in Python)
 
-## 🔹 Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
-2. Run the script:
-   ```python
-   python encrypt.py
-3.Enter a string when prompted.
-4.The script will output 8 encryption keys.
-
 ##🔹 Example Output
 ```
 Enter a string: Hello
